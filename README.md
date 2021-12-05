@@ -1,1 +1,1 @@
-# T-cnicas-de-Prototipagem
+# Tecnicas-de-Prototipagem
